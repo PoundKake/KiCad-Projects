@@ -31,7 +31,7 @@ U 1 1 5F7A893F
 P 4200 4600
 F 0 "BZ1" V 4158 4752 50  0000 L CNN
 F 1 "Buzzer" V 4249 4752 50  0000 L CNN
-F 2 "Buzzer_Beeper:MagneticBuzzer_Kingstate_KCG0601" V 4175 4700 50  0001 C CNN
+F 2 "Buzzer_Beeper:Buzzer_15x7.5RM7.6" V 4175 4700 50  0001 C CNN
 F 3 "~" V 4175 4700 50  0001 C CNN
 	1    4200 4600
 	-1   0    0    1   
@@ -73,7 +73,7 @@ U 1 1 5F7B51B8
 P 4120 3600
 F 0 "J1" H 4038 3175 50  0000 C CNN
 F 1 "BLE-HM-10" H 4038 3266 50  0000 C CNN
-F 2 "Connector_PinHeader_1.00mm:PinHeader_1x04_P1.00mm_Horizontal" H 4120 3600 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" H 4120 3600 50  0001 C CNN
 F 3 "~" H 4120 3600 50  0001 C CNN
 	1    4120 3600
 	-1   0    0    1   
@@ -112,7 +112,7 @@ U 1 1 5F7BB563
 P 6600 2500
 F 0 "J2" H 6518 2175 50  0000 C CNN
 F 1 "+5V" H 6518 2266 50  0000 C CNN
-F 2 "Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Horizontal" H 6600 2500 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 6600 2500 50  0001 C CNN
 F 3 "~" H 6600 2500 50  0001 C CNN
 	1    6600 2500
 	-1   0    0    1   
@@ -135,7 +135,7 @@ U 1 1 5F7C0776
 P 6600 3000
 F 0 "J3" H 6518 2675 50  0000 C CNN
 F 1 "GND" H 6518 2766 50  0000 C CNN
-F 2 "Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Horizontal" H 6600 3000 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 6600 3000 50  0001 C CNN
 F 3 "~" H 6600 3000 50  0001 C CNN
 	1    6600 3000
 	-1   0    0    1   
@@ -195,7 +195,7 @@ U 1 1 5F7CE00D
 P 7130 4220
 F 0 "J4" H 7210 4212 50  0000 L CNN
 F 1 "RX5808_spi" H 7210 4121 50  0000 L CNN
-F 2 "Connector_PinHeader_1.00mm:PinHeader_1x08_P1.00mm_Horizontal" H 7130 4220 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical" H 7130 4220 50  0001 C CNN
 F 3 "~" H 7130 4220 50  0001 C CNN
 F 4 "I" H 7130 4220 50  0001 C CNN "Spice_Primitive"
 F 5 "Y" H 7130 4220 50  0001 C CNN "Spice_Netlist_Enabled"
